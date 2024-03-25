@@ -1,0 +1,234 @@
+C:\Users\13\source\repos\hospital\hospital\bin\Debug\hospital.exe.config
+C:\Users\13\source\repos\hospital\hospital\bin\Debug\hospital.exe
+C:\Users\13\source\repos\hospital\hospital\bin\Debug\hospital.pdb
+C:\Users\13\source\repos\hospital\hospital\bin\Debug\MySql.Data.dll
+C:\Users\13\source\repos\hospital\hospital\bin\Debug\System.Memory.dll
+C:\Users\13\source\repos\hospital\hospital\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\13\source\repos\hospital\hospital\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\13\source\repos\hospital\hospital\bin\Debug\System.Buffers.dll
+C:\Users\13\source\repos\hospital\hospital\bin\Debug\MySql.Data.xml
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\hospital.csproj.AssemblyReference.cache
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\App.g.cs
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\hospital_MarkupCompile.cache
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\hospital_MarkupCompile.lref
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\hospital.g.resources
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\hospital.Properties.Resources.resources
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\hospital.csproj.GenerateResource.cache
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\hospital.csproj.CoreCompileInputs.cache
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\hospital.csproj.CopyComplete
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\hospital.exe
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\hospital.pdb
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\Login.g.cs
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\Register.g.cs
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\Login.baml
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\Register.baml
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\Menu.g.cs
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\Menu.baml
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\Clients.g.cs
+C:\Users\13\source\repos\hospital\hospital\obj\Debug\Clients.baml
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\hospital.exe.config
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\hospital.exe
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\hospital.pdb
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Memory.dll
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Numerics.Vectors.dll
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Buffers.dll
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\MySql.Data.xml
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital.csproj.AssemblyReference.cache
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Login.g.cs
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Menu.g.cs
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Clients.g.cs
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Register.g.cs
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\App.g.cs
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital_MarkupCompile.cache
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital_MarkupCompile.lref
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Login.baml
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Menu.baml
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Clients.baml
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Register.baml
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital.g.resources
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital.Properties.Resources.resources
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital.csproj.GenerateResource.cache
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital.csproj.CoreCompileInputs.cache
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital.csproj.CopyComplete
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital.exe
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital.pdb
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Add.g.cs
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Add.baml
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Edit.g.cs
+F:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Edit.baml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital.csproj.AssemblyReference.cache
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\App.g.cs
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital_Content.g.cs
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital_MarkupCompile.cache
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital_MarkupCompile.lref
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital.exe
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital.pdb
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\runtimes\linux-x64\native\IronBarcodeInterop.so
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\runtimes\osx-arm64\native\IronBarcodeInterop.dylib
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\runtimes\osx-x64\native\IronBarcodeInterop.dylib
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\runtimes\win-x64\native\IronBarcodeInterop.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\runtimes\win-x86\native\IronBarcodeInterop.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\onnxruntime.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\hospital.exe.config
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\hospital.exe
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\hospital.pdb
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\BitMiracle.LibTiff.NET.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.ML.OnnxRuntime.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\QRCoder.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\SixLabors.Fonts.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\SixLabors.ImageSharp.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Buffers.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Memory.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Numerics.Vectors.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Security.AccessControl.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Security.Permissions.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Security.Principal.Windows.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Text.Encodings.Web.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Text.Json.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.ValueTuple.dll
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\BitMiracle.LibTiff.NET.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\Microsoft.ML.OnnxRuntime.pdb
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\SixLabors.Fonts.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\SixLabors.ImageSharp.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\SixLabors.ImageSharp.Drawing.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Buffers.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Memory.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Numerics.Vectors.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Security.AccessControl.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Security.Permissions.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Security.Principal.Windows.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Text.Encodings.Web.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Text.Json.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\bin\Debug\System.ValueTuple.xml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital.g.resources
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital.Properties.Resources.resources
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital.csproj.GenerateResource.cache
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital.csproj.CoreCompileInputs.cache
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\hospital.csproj.CopyComplete
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Add.g.cs
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Edit.g.cs
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Login.g.cs
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Menu.g.cs
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Clients.g.cs
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Register.g.cs
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Add.baml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Edit.baml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Login.baml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Menu.baml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Clients.baml
+E:\worldskills\БОЛЬНИЦА\hospital\hospital\obj\Debug\Register.baml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\hospital.exe.config
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\hospital.exe
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\hospital.pdb
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\QRCoder.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\SixLabors.Fonts.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Buffers.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Memory.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Security.AccessControl.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Security.Permissions.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Text.Json.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.ValueTuple.dll
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\SixLabors.Fonts.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\SixLabors.ImageSharp.Drawing.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Buffers.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Memory.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Security.AccessControl.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Security.Permissions.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Text.Json.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\bin\Debug\System.ValueTuple.xml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\hospital.csproj.AssemblyReference.cache
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\Add.g.cs
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\Edit.g.cs
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\Login.g.cs
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\Menu.g.cs
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\Clients.g.cs
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\Register.g.cs
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\App.g.cs
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\hospital_MarkupCompile.cache
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\hospital_MarkupCompile.lref
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\Add.baml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\Edit.baml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\Login.baml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\Menu.baml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\Clients.baml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\Register.baml
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\hospital.g.resources
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\hospital.Properties.Resources.resources
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\hospital.csproj.GenerateResource.cache
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\hospital.csproj.CoreCompileInputs.cache
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\hospital.csproj.CopyComplete
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\hospital.exe
+C:\Users\13\Desktop\БОЛЬНИЦА\Проект VisualStudio\hospital\obj\Debug\hospital.pdb

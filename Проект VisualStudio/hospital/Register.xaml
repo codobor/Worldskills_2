@@ -1,0 +1,15 @@
+﻿<Window x:Class="hospital.Register"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:hospital"
+        mc:Ignorable="d"
+        Title="Register" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="buttonRegister" Content="Зарегистрироваться" HorizontalAlignment="Center" Margin="0,265,0,0" VerticalAlignment="Top" Width="120" Click="buttonRegister_Click"/>
+        <TextBox x:Name="textBoxLogin" HorizontalAlignment="Center" Margin="0,182,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <PasswordBox x:Name="passwordBoxPass" HorizontalAlignment="Center" Margin="0,217,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="textBlockLogin" HorizontalAlignment="Center" Margin="336,302,336,0" TextWrapping="Wrap" VerticalAlignment="Top" TextAlignment="Center" Cursor="AppStarting" Foreground="#FF1E1EE6" PreviewMouseDown="textBlockLogin_PreviewMouseDown" Width="120"><Run Text="Вход"/></TextBlock>
+    </Grid>
+</Window>
